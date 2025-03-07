@@ -21,7 +21,7 @@ I'm a **Computer Science student at Ashesi University** with a passion for **IoT
 Here are some of the projects I’ve worked on:
 - **[Sayf](https://github.com/fremariab/sayf)** – Enhancing transportation safety through data-driven insights. *(PHP, JavaScript)*
 - **[Ashesi Lost & Found](https://github.com/fremariab/ashesilostandfound)** – A web platform to help the Ashesi community efficiently report and recover lost items. *(PHP, MySQL)*
-- **[Ashesi JEC](https://github.com/fremariab/ashesijec)** – A React-based management system for the Ashesi Judicial and Electoral Council. *(React, Firebase)*
+- **[Ashesi JEC](https://github.com/fremariab/ashesi-jec)** – A React-based management system for the Ashesi Judicial and Electoral Council. *(React, Firebase)*
 - **[Churning Customers Project](https://github.com/fremariab/ChurningCustomersProject)** – Predicting customer churn using machine learning. *(Python, Jupyter Notebook)*
 - **[COA Final Project](https://github.com/fremariab/group10_finalproject)** – Built a **16-bit CPU in Logisim** and a **32-bit CPU in VHDL**.
 
